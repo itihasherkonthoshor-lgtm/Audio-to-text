@@ -1,0 +1,6 @@
+{
+  "name": "AudioText Pro",
+  "description": "Personal Bengali, English, and Hindi audio-to-text transcription app with Exact and Clean modes, recording, local Room history, and TXT/PDF/DOCX/SRT exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
